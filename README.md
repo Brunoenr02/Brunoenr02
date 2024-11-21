@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&pause=1000&color=00F716&center=true&vCenter=True&random=false&width=435&lines=HELLO%2C+MY+NAME+IS+BRUNO+ANCCO)](https://git.io/typing-svg)<br />
+<!---[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&pause=1000&color=00F716&center=true&vCenter=True&random=false&width=435&lines=HELLO%2C+MY+NAME+IS+BRUNO+ANCCO)](https://git.io/typing-svg)<br />
 💬<br />
 ⚡<br />
 🎶<br />
